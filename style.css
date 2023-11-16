@@ -1,0 +1,130 @@
+.a1 {
+  color: #131A22; }
+
+.btn {
+  background-color: #F26522;
+  border-radius: 50px;
+  color: white; }
+
+.carousel-indicators li {
+  width: 5px !important;
+  height: 5px !important;
+  background-color: black !important;
+  border-radius: 50%;
+  margin-left: 450px; }
+
+.carousel-indicators .active {
+  width: 5px !important;
+  height: 5px !important;
+  flex-direction: row !important;
+  color: darkblue !important;
+  border-radius: 50%; }
+
+.a3 {
+  margin-top: -200px;
+  margin-left: 100px; }
+
+.nav-item a:hover {
+  font-weight: bold;
+  border-bottom: 1px solid #F26522; }
+
+.ad {
+  margin-left: 650px;
+  position: absolute;
+  margin-top: -60px; }
+
+.wer {
+  margin-top: 150px; }
+
+.a2 {
+  margin-top: -150px;
+  position: relative; }
+
+.a4 {
+  margin-top: -15px; }
+
+.a5 {
+  margin-left: 200px; }
+
+.a7 {
+  margin-left: 280px;
+  margin-top: -60px; }
+
+.burchag {
+  width: 446px;
+  height: 669px;
+  position: absolute;
+  border-radius: 250px 1px 1px 1px;
+  opacity: 0.1;
+  background: var(--green, #37475A);
+  margin-left: 850px;
+  margin-top: 35px; }
+
+.a6 {
+  width: 288px;
+  height: 81px;
+  position: relative;
+  color: #FFFDF6;
+  margin-left: 160px; }
+
+.a8 {
+  width: 288px;
+  height: 81px;
+  color: #FFFDF6;
+  margin-left: 210px;
+  position: relative;
+  margin-top: -50px; }
+
+.a9 {
+  position: relative;
+  width: 368.267px;
+  height: 403.048px;
+  flex-shrink: 0;
+  fill: #F26522; }
+
+.a10 {
+  position: relative;
+  width: 239.159px;
+  height: 403.028px;
+  flex-shrink: 0;
+  fill: #F26522;
+  margin-top: -400px;
+  margin-left: 100px; }
+
+.a11 {
+  position: relative;
+  width: 103.536px;
+  height: 183.69px;
+  flex-shrink: 0;
+  fill: #F15A22;
+  margin-top: -290px;
+  margin-left: 120px; }
+
+.a12 {
+  position: relative;
+  margin-left: 650px;
+  margin-top: -190px; }
+
+.a13 {
+  margin-top: 60px; }
+
+.a14 {
+  margin-left: 10px; }
+
+.a12s {
+  font-family: Regular,Light,Open Sans,sans-serif;
+  font-weight: 400;
+  background-image: url(img/image.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #131A22;
+  width: 1440px;
+  height: 750px; }
+
+.b1 {
+  color: white;
+  width: 350px;
+  height: 210px;
+  background: #FFF; }
+
+/*# sourceMappingURL=style.css.map */
